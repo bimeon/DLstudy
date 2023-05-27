@@ -2,7 +2,8 @@
 
 - **네트워크** : 노드(node)와 링크(link)가 서로 연결되어 리소스를 공유하는 집합
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b45fc7b6-2802-4244-9010-370ed7373787/Untitled.png)
+    ![Untitled](https://github.com/SeohyunLee0321/DLstudy/assets/117229525/448ba8fd-dcf9-47ff-938d-3c784f4383f5)
+
     
     - 노드 : 서버, 라우터, 스위치 등 네트워크 장치
     - 링크 : 유선 또는 무선
